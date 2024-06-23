@@ -2,7 +2,7 @@
 A simple app to scout out your opponents for VEX VRC competitions
 
 
-This project was created in March 2022. The code has not been uploaded here due to privacy reasons between teams.
+This project was created in March 2022 for my robotics team (750B). The code has not been uploaded here due to privacy reasons between teams.
 
 # Inspiration
 
